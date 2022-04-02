@@ -18,6 +18,6 @@
   "homepage": "https://github.com/comp426-2022-spring/a03-guisaez#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
